@@ -3,4 +3,4 @@ resolusi diriku
 -membuat halaman web untuk mengenalkan diriku
 -membuat aplikasi sederhana
 -bercita-cita membuat aplikasi android
--dan membuat substratum theme
+-membuat aplikasi window
