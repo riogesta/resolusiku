@@ -1,1 +1,2 @@
 # resolusiku
+rencara perjalananku kedepan
