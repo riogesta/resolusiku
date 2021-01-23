@@ -1,4 +1,4 @@
 - membuat aplikasi sederhana yang bermanfaat
-- membuat aplikasi substratum theme
 - membuat lapak di google play
   * bisa mendapatkan pendapatan dari menjual aplikasi di google play store
+  * membuat aplikasi modulo
