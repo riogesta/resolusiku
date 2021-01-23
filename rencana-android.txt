@@ -3,3 +3,4 @@
   * bisa mendapatkan pendapatan dari menjual aplikasi di google play store
   * membuat aplikasi modulo
   * membuat icon pack
+  * mencoba substratum theme
