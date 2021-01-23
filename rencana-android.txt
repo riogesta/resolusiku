@@ -1,0 +1,3 @@
+- membuat aplikasi sederhana yang bermanfaat
+- membuat aplikasi substratum theme
+- membuat lapak di google play
